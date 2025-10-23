@@ -85,20 +85,35 @@ Throughout the program, I completed several hands-on projects, including:
 IBM-Data-Engineering-Professional-Certificate/
 │
 ├── 01-Introduction-to-Data-Engineering/
+
 ├── 02-Python-for-Data-Science/
+
 ├── 03-Python-Project-for-Data-Engineering/
+
 ├── 04-Relational-Databases/
+
 ├── 05-SQL-for-Data-Science/
+
 ├── 06-Linux-and-Shell/
+
 ├── 07-Database-Administration/
+
 ├── 08-ETL-and-Pipelines/
+
 ├── 09-Data-Warehouse/
+
 ├── 10-BI-Dashboards/
+
 ├── 11-NoSQL/
+
 ├── 12-Big-Data/
+
 ├── 13-ML-with-Spark/
+
 ├── 14-Capstone-Project/
+
 ├── 15-Generative-AI/
+
 └── 16-Career-Guide/
 
 Each folder contains:
