@@ -82,3 +82,50 @@ Throughout the program, I completed several hands-on projects, including:
 
 ## 🧱 Repository Structure
 
+IBM-Data-Engineering-Professional-Certificate/
+│
+├── 01-Introduction-to-Data-Engineering/
+├── 02-Python-for-Data-Science/
+├── 03-Python-Project-for-Data-Engineering/
+├── 04-Relational-Databases/
+├── 05-SQL-for-Data-Science/
+├── 06-Linux-and-Shell/
+├── 07-Database-Administration/
+├── 08-ETL-and-Pipelines/
+├── 09-Data-Warehouse/
+├── 10-BI-Dashboards/
+├── 11-NoSQL/
+├── 12-Big-Data/
+├── 13-ML-with-Spark/
+├── 14-Capstone-Project/
+├── 15-Generative-AI/
+└── 16-Career-Guide/
+
+Each folder contains:
+- Labs (`.ipynb`)
+- Scripts (`.py`)
+- SQL queries (`.sql`)
+- Mini projects or assignments  
+
+---
+
+## 🏅 Credentials
+
+- 🎓 **IBM Data Engineering Professional Certificate**  
+- 🪪 **IBM Digital Badge** (Data Engineering)  
+- 🌐 [Verify Credential on Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+
+---
+
+## 👤 Author
+
+**Omar Adel Abdelsalam Elsheikh**  
+📧 [omaraadel711@gmail.com](mailto:omaraadel711@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/omar-adel-ai/)  
+💻 [GitHub](https://github.com/OmarAdel711)
+
+---
+
+> 💡 *This repository serves as a portfolio of my work and learning through the IBM Data Engineering Professional Certificate. It demonstrates proficiency in modern data engineering tools, platforms, and AI integration.*
+
+
