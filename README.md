@@ -82,8 +82,6 @@ Throughout the program, I completed several hands-on projects, including:
 
 ## 🧱 Repository Structure
 
-IBM-Data-Engineering-Professional-Certificate/
-
 ```bash
 IBM-Data-Engineering-Professional-Certificate/
 ├── 01-Introduction-to-Data-Engineering/
@@ -102,23 +100,23 @@ IBM-Data-Engineering-Professional-Certificate/
 ├── 14-Capstone-Project/
 ├── 15-Generative-AI/
 └── 16-Career-Guide/
-
-
+---
 Each folder contains:
-- Labs (`.ipynb`)
-- Scripts (`.py`)
-- SQL queries (`.sql`)
-- Mini projects or assignments  
 
----
+Labs (.ipynb)
 
-## 🏅 Credentials
+Scripts (.py)
 
-- 🎓 **IBM Data Engineering Professional Certificate**  
-- 🪪 **IBM Digital Badge** (Data Engineering)  
-- 🌐 [Verify Credential on Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+SQL queries (.sql)
 
----
+Mini projects or assignments
+
+🏅 Credentials
+🎓 IBM Data Engineering Professional Certificate
+
+🪪 IBM Digital Badge (Data Engineering)
+
+🌐 Verify Credential on Coursera
 
 ## 👤 Author
 
