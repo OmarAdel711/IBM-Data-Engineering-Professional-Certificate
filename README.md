@@ -84,6 +84,8 @@ Throughout the program, I completed several hands-on projects, including:
 
 IBM-Data-Engineering-Professional-Certificate/
 
+```bash
+IBM-Data-Engineering-Professional-Certificate/
 ├── 01-Introduction-to-Data-Engineering/
 ├── 02-Python-for-Data-Science/
 ├── 03-Python-Project-for-Data-Engineering/
@@ -100,6 +102,7 @@ IBM-Data-Engineering-Professional-Certificate/
 ├── 14-Capstone-Project/
 ├── 15-Generative-AI/
 └── 16-Career-Guide/
+
 
 Each folder contains:
 - Labs (`.ipynb`)
